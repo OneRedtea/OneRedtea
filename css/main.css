@@ -758,7 +758,7 @@ sup > a::before,
   padding: 3rem 0;
 }
 html {
-  font-size: 16px;
+  font-size: 18px;
   letter-spacing: 0.02em;
 }
 html,
@@ -827,7 +827,7 @@ i.iconfont {
 }
 :root {
   --color-mode: "light";
-  --body-bg-color: #eee;
+  --body-bg-color: #edf2ff;
   --board-bg-color: #fff;
   --text-color: #3c4858;
   --sec-text-color: #718096;
@@ -837,8 +837,8 @@ i.iconfont {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
-  --navbar-bg-color: #2f4154;
-  --navbar-text-color: #fff;
+  --navbar-bg-color: #4dabf7;
+  --navbar-text-color: #ffffff;
   --subtitle-color: #fff;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
@@ -852,7 +852,7 @@ i.iconfont {
     --color-mode: "dark";
   }
   :root:not([data-user-color-scheme]) {
-    --body-bg-color: #181c27;
+    --body-bg-color: #1f2232;
     --board-bg-color: #252d38;
     --text-color: #c4c6c9;
     --sec-text-color: #a7a9ad;
@@ -862,8 +862,8 @@ i.iconfont {
     --link-hover-color: #30a9de;
     --link-hover-bg-color: #364151;
     --line-color: #435266;
-    --navbar-bg-color: #1f3144;
-    --navbar-text-color: #d0d0d0;
+    --navbar-bg-color: #1864ab;
+    --navbar-text-color: #e3fafc;
     --subtitle-color: #d0d0d0;
     --scrollbar-color: #687582;
     --scrollbar-hover-color: #9da8b3;
@@ -887,7 +887,7 @@ i.iconfont {
   }
 }
 [data-user-color-scheme="dark"] {
-  --body-bg-color: #181c27;
+  --body-bg-color: #1f2232;
   --board-bg-color: #252d38;
   --text-color: #c4c6c9;
   --sec-text-color: #a7a9ad;
@@ -897,8 +897,8 @@ i.iconfont {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #364151;
   --line-color: #435266;
-  --navbar-bg-color: #1f3144;
-  --navbar-text-color: #d0d0d0;
+  --navbar-bg-color: #1864ab;
+  --navbar-text-color: #e3fafc;
   --subtitle-color: #d0d0d0;
   --scrollbar-color: #687582;
   --scrollbar-hover-color: #9da8b3;
